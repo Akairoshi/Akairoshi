@@ -9,10 +9,10 @@
 Student - _second year of college_ ***Information Systems and Programming***
 ### Main direction
 * C#
+  * .NET
+  * SQLite
+  * WPF
   * Unity 
 * 3D
   * Blender
   * Substance Painter
-### Second direction
-* C++
-  * Unreal Engine 5 
