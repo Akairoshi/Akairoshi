@@ -4,15 +4,4 @@
 
 ## Info
 
-<img src="https://i.pinimg.com/736x/b4/b5/5b/b4b55b0ac1b00a1579ebe1159d57757f.jpg" alt="It's just Hitori Goto" width="25">  **Gamer**
-
 Student - _second year of college_ ***Information Systems and Programming***
-### Main direction
-* C#
-  * .NET
-  * SQLite
-  * WPF
-  * Unity 
-* 3D
-  * Blender
-  * Substance Painter
