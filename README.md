@@ -10,7 +10,7 @@
   Info
 </h1>
 <p align="center">
-  Student - _second year of college_ ***Information Systems and Programming***
+  Student - second year of college <b>Information Systems and Programming</b>
 </p>
 
 <p align="center">
